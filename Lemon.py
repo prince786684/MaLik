@@ -67,7 +67,7 @@ logo = """
 \033[1;93m╰━━╮┣╯╰┻┻━━┻━━┻╯
 \033[1;93m╱╱╱╰╯
 
-\033[1;91m--> GITHUB :- https://github.com/TechQaiser
+\033[1;91m--> GITHUB :- https://github.com/TechAsghar
 
 \033[1;92m--> FACEBOOK :- Qaiser Abbas
 
