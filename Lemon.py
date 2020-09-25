@@ -73,7 +73,7 @@ logo = """
 \033[1;93m
 \033[1;93m
 
-\033[1;91m--> GITHUB :- https://github.com/masoom/asghar
+\033[1;91m--> GITHUB :- https://github.com/masoom826/asghar
 
 \033[1;92m--> FACEBOOK :- prince masoom
 
